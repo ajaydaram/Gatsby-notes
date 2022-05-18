@@ -59,3 +59,10 @@ If you try to build your site with the code above, you’ll get an error for <In
 wrapped in an enclosing tag. Did you want a JSX fragment
 <>...</>?  
  ```
+  ## Use the Link Component
+  Link component is the part of building block component.
+  A building block component is the smaller components that represents the page's UI. 
+Think back to the store website. The Navbar, Sidebar, ProductGrid, and ProductCard components are examples of building-block components. You can combine several smaller building-block components into a larger page component.
+  ### Uses of buiding-block component
+ Reuse the same component in multiple places across your site. This is especially useful for pieces of your UI that share a similar structure but render different values.
+  
